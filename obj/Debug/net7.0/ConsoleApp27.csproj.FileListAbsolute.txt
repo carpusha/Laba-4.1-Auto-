@@ -1,0 +1,14 @@
+D:\Проекты\ConsoleApp27\bin\Debug\net7.0\ConsoleApp27.exe
+D:\Проекты\ConsoleApp27\bin\Debug\net7.0\ConsoleApp27.deps.json
+D:\Проекты\ConsoleApp27\bin\Debug\net7.0\ConsoleApp27.runtimeconfig.json
+D:\Проекты\ConsoleApp27\bin\Debug\net7.0\ConsoleApp27.dll
+D:\Проекты\ConsoleApp27\bin\Debug\net7.0\ConsoleApp27.pdb
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ConsoleApp27.AssemblyInfoInputs.cache
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ConsoleApp27.AssemblyInfo.cs
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ConsoleApp27.csproj.CoreCompileInputs.cache
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ConsoleApp27.dll
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\refint\ConsoleApp27.dll
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ConsoleApp27.pdb
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ConsoleApp27.genruntimeconfig.cache
+D:\Проекты\ConsoleApp27\obj\Debug\net7.0\ref\ConsoleApp27.dll
